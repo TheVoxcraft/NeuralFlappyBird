@@ -1,2 +1,2 @@
 # NeuralFlappyBird
-Flappy bird played by ai
+Flappy bird AI using Evolutionary Algorithms for Reinforcement Learning.
